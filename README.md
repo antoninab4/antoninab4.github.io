@@ -28,7 +28,7 @@
         <section>
           <h2>Первая секция</h2>
           <p>Она обо мне</p>
-          <img src="images/image.png" alt="Человек и пароход">
+          <img src="https://github.com/antoninab4/antoninab4.github.io/blob/main/wings%20node%20team.jpg" alt="Человек и пароход">
           <p>Но может быть и о семантике, я пока не решил.</p>
         </section>
         <section>
