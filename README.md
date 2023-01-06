@@ -12,7 +12,8 @@
     <meta property="og:url" content="https://example.com/">
   </head>
   <body>
-    <header>
+   
+ <header>
       <h1>Это мой сайт</h1>
       <p>Он хороший</p>
       <nav>
